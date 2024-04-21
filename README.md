@@ -1,6 +1,6 @@
 # Power-BI-Project
 
-##**SQL Wise Data Requirements :**
+## **SQL Wise Data Requirements :**
 
 The Pizza Query Documentation contains SQL queries designed to analyze pizza sales data as :
 
@@ -37,7 +37,7 @@ Worst 5 Pizzas by Orders: Lists the bottom 5 pizzas with the least orders.
 
 
 
-##**POWER BI visualization of the data :**
+## **POWER BI visualization of the data :**
 
 Sales Performance Analysis:
 Successfully analyzed daily sales data, identifying a consistent trend of 817.86K in revenue.
